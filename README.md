@@ -1,6 +1,8 @@
 # shuati-java
 
+```
 /* Array */ 
+
 Arrays.fill(int[] a, int fromIndex, int toIndex, int val)
 
 Arrays.sort(nums, new Comparator<Point>() {
@@ -318,4 +320,4 @@ public static List<String> readAllLines4(String fileName) {
     }
     return res;
 }
-
+```
